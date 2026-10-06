@@ -1,0 +1,101 @@
+OrderID,OrderDate,Region,State,City,Segment,Category,Product,SalesChannel,SalesRep,Units,UnitPrice,Revenue,DiscountPct,Cost,Profit,CustomerRating
+ORD-1001,07-10-2025,West,California,Los Angeles,Consumer,Office Supplies,Pens,Partner,Riley Brooks,9,148.05,1332.45,0,910.08,422.37,1
+ORD-1002,29-11-2025,West,California,Los Angeles,Small Business,Furniture,Desk,Partner,Riley Brooks,18,579.08,10423.44,0.1,5625.02,3756.08,2
+ORD-1003,21-04-2025,Northeast,Maryland,Baltimore,Corporate,Office Supplies,Notebook,Online,Jordan Lee,7,668.67,4680.69,0.05,2636.92,1809.74,4
+ORD-1004,13-07-2025,West,California,San Francisco,Consumer,Office Supplies,Paper,Partner,Casey Patel,3,698.11,2094.33,0.1,1083.71,801.19,5
+ORD-1005,30-04-2025,Midwest,Missouri,Kansas City,Consumer,Furniture,Office Chair,Retail Store,Casey Patel,3,634.3,1902.9,0.05,1475.83,331.93,4
+ORD-1006,28-11-2025,Midwest,Ohio,Columbus,Consumer,Office Supplies,Paper,Partner,Morgan Davis,8,642.6,5140.8,0.15,3912.13,457.55,2
+ORD-1007,23-04-2025,South,Texas,Dallas,Small Business,Accessories,Webcam,Retail Store,Jordan Lee,10,940.24,9402.4,0.15,6454.26,1537.78,2
+ORD-1008,11-06-2025,West,California,San Francisco,Consumer,Accessories,Headset,Partner,Riley Brooks,4,214.64,858.56,0.1,637.83,134.87,4
+ORD-1009,27-10-2025,Northeast,Massachusetts,Boston,Corporate,Office Supplies,Pens,Partner,Riley Brooks,9,712.33,6410.97,0.1,3582.59,2187.28,3
+ORD-1010,15-12-2025,South,Texas,Dallas,Corporate,Accessories,Keyboard,Partner,Jordan Lee,3,820.55,2461.65,0.03,1644.96,742.84,4
+ORD-1011,02-10-2025,Northeast,Maryland,Baltimore,Corporate,Accessories,Headset,Partner,Casey Patel,2,652.02,1304.04,0,892.63,411.41,1
+ORD-1012,14-09-2025,Midwest,Minnesota,Minneapolis,Consumer,Furniture,Conference Table,Partner,Jordan Lee,2,906.96,1813.92,0.15,1014.01,527.82,3
+ORD-1013,10-01-2025,South,Texas,Dallas,Consumer,Office Supplies,Pens,Retail Store,Casey Patel,18,874.04,15732.72,0.1,9081.66,5077.79,2
+ORD-1014,07-03-2025,West,California,San Diego,Small Business,Technology,Laptop,Retail Store,Avery Chen,17,778.53,13235.01,0.1,9393.55,2517.96,2
+ORD-1015,29-11-2025,Midwest,Missouri,Kansas City,Corporate,Accessories,Mouse,Retail Store,Avery Chen,8,682.47,5459.76,0.08,4250.67,772.31,4
+ORD-1016,23-04-2025,West,California,San Diego,Consumer,Furniture,Office Chair,Online,Morgan Davis,12,37.6,451.2,0.1,247.72,158.36,1
+ORD-1017,20-04-2025,South,Texas,Houston,Small Business,Technology,Printer,Online,Morgan Davis,4,497.19,1988.76,0.05,1353.74,535.58,5
+ORD-1018,05-08-2025,Northeast,Massachusetts,Boston,Corporate,Accessories,Webcam,Retail Store,Morgan Davis,8,105.91,847.28,0.15,516.26,203.93,1
+ORD-1019,13-03-2025,West,California,Los Angeles,Corporate,Accessories,Headset,Online,Casey Patel,5,249.75,1248.75,0.03,800.31,410.98,4
+ORD-1020,17-02-2025,South,Texas,Houston,Consumer,Accessories,Keyboard,Online,Riley Brooks,3,625.8,1877.4,0.1,1372.02,317.64,4
+ORD-1021,21-08-2025,Northeast,Massachusetts,Boston,Corporate,Accessories,Keyboard,Retail Store,Morgan Davis,7,371.2,2598.4,0.08,1453.96,936.57,5
+ORD-1022,01-02-2025,Northeast,Massachusetts,Boston,Small Business,Furniture,Bookshelf,Retail Store,Jordan Lee,8,920.84,7366.72,0.1,5162.02,1468.03,1
+ORD-1023,04-02-2025,Northeast,Maryland,Baltimore,Small Business,Furniture,Office Chair,Online,Riley Brooks,18,92.66,1667.88,0.03,834.87,782.97,1
+ORD-1024,14-05-2025,South,Georgia,Atlanta,Consumer,Technology,Laptop,Partner,Morgan Davis,15,630.67,9460.05,0.1,6024.49,2489.56,3
+ORD-1025,15-11-2025,South,Texas,Austin,Small Business,Accessories,Mouse,Online,Jordan Lee,11,444.13,4885.43,0,2358.66,2526.77,5
+ORD-1026,22-03-2025,South,Georgia,Atlanta,Corporate,Office Supplies,Pens,Partner,Morgan Davis,13,838.97,10906.61,0.03,6444.26,4135.15,3
+ORD-1027,21-03-2025,West,Colorado,Denver,Corporate,Office Supplies,Notebook,Retail Store,Avery Chen,6,264.48,1586.88,0,1115.14,471.74,2
+ORD-1028,05-08-2025,Midwest,Ohio,Columbus,Corporate,Office Supplies,Folders,Online,Jordan Lee,10,861.77,8617.7,0,4375.12,4242.58,3
+ORD-1029,27-02-2025,South,North Carolina,Charlotte,Consumer,Office Supplies,Pens,Partner,Taylor Morgan,16,532.17,8514.72,0.08,5519.86,2313.68,5
+ORD-1030,21-01-2025,West,California,San Francisco,Corporate,Furniture,Conference Table,Online,Morgan Davis,6,56.98,341.88,0.05,256.31,68.48,2
+ORD-1031,13-01-2025,West,California,San Francisco,Consumer,Accessories,Mouse,Partner,Casey Patel,9,823.81,7414.29,0.03,5519.38,1672.48,4
+ORD-1032,24-08-2025,South,Texas,Austin,Corporate,Furniture,Office Chair,Retail Store,Taylor Morgan,14,830.86,11632.04,0.08,6359.59,4341.89,2
+ORD-1033,23-05-2025,West,Colorado,Denver,Corporate,Furniture,Conference Table,Partner,Avery Chen,12,277.66,3331.92,0,2565.8,766.12,4
+ORD-1034,02-11-2025,Midwest,Illinois,Chicago,Corporate,Technology,Printer,Retail Store,Morgan Davis,7,559.11,3913.77,0.05,1923.53,1794.55,3
+ORD-1035,24-09-2025,Northeast,Maryland,Baltimore,Small Business,Technology,Tablet,Partner,Morgan Davis,8,255.4,2043.2,0.15,1248.02,488.7,2
+ORD-1036,03-06-2025,Midwest,Minnesota,Minneapolis,Small Business,Technology,Printer,Retail Store,Morgan Davis,12,636.28,7635.36,0,5313.65,2321.71,4
+ORD-1037,31-03-2025,Midwest,Minnesota,Minneapolis,Small Business,Office Supplies,Pens,Partner,Casey Patel,8,409.86,3278.88,0.08,2240.12,776.45,4
+ORD-1038,27-08-2025,West,California,San Francisco,Corporate,Office Supplies,Pens,Retail Store,Morgan Davis,15,750.33,11254.95,0.1,7612.98,2516.48,2
+ORD-1039,17-02-2025,Northeast,New Jersey,Newark,Consumer,Furniture,Office Chair,Partner,Casey Patel,11,498.4,5482.4,0.15,3650.06,1009.98,2
+ORD-1040,07-02-2025,South,Texas,Dallas,Corporate,Technology,Laptop,Retail Store,Morgan Davis,9,935.03,8415.27,0.1,6184.56,1389.18,5
+ORD-1041,24-02-2025,South,North Carolina,Charlotte,Corporate,Accessories,Webcam,Online,Taylor Morgan,14,245.39,3435.46,0.15,2357.71,562.43,5
+ORD-1042,14-10-2025,Northeast,New York,New York City,Small Business,Furniture,Office Chair,Retail Store,Riley Brooks,16,142.27,2276.32,0.08,1548.52,545.69,5
+ORD-1043,22-05-2025,Northeast,Maryland,Baltimore,Small Business,Accessories,Mouse,Retail Store,Morgan Davis,17,437.47,7436.99,0.03,5443.57,1770.31,2
+ORD-1044,11-02-2025,Midwest,Minnesota,Minneapolis,Consumer,Technology,Printer,Online,Taylor Morgan,9,271.24,2441.16,0.05,1825.76,493.34,4
+ORD-1045,01-02-2025,South,North Carolina,Charlotte,Consumer,Furniture,Office Chair,Retail Store,Riley Brooks,15,397.88,5968.2,0.1,3698.95,1672.43,5
+ORD-1046,03-08-2025,West,Arizona,Phoenix,Small Business,Accessories,Webcam,Partner,Morgan Davis,2,896.64,1793.28,0.05,1266.13,437.49,5
+ORD-1047,14-12-2025,South,Florida,Miami,Corporate,Furniture,Bookshelf,Partner,Taylor Morgan,15,470.62,7059.3,0.08,4100.32,2394.24,4
+ORD-1048,25-08-2025,South,Georgia,Atlanta,Consumer,Technology,Tablet,Online,Casey Patel,2,96.24,192.48,0.08,100.23,76.85,4
+ORD-1049,04-08-2025,Midwest,Ohio,Columbus,Corporate,Accessories,Headset,Online,Riley Brooks,12,727.47,8729.64,0.08,4918.95,3112.32,1
+ORD-1050,11-01-2025,West,California,San Francisco,Small Business,Furniture,Office Chair,Online,Taylor Morgan,3,720.95,2162.85,0.03,1167.52,930.44,2
+ORD-1051,07-11-2025,Northeast,New Jersey,Newark,Small Business,Technology,Monitor,Partner,Jordan Lee,16,669.9,10718.4,0.05,5684.36,4498.12,2
+ORD-1052,31-10-2025,Midwest,Illinois,Chicago,Small Business,Technology,Printer,Partner,Taylor Morgan,14,387.68,5427.52,0.15,2928.14,1685.25,1
+ORD-1053,17-09-2025,Midwest,Indiana,Indianapolis,Small Business,Technology,Laptop,Retail Store,Jordan Lee,13,514.52,6688.76,0.15,3954.2,1731.25,4
+ORD-1054,25-09-2025,Northeast,New York,New York City,Small Business,Accessories,Headset,Retail Store,Avery Chen,16,677.21,10835.36,0.08,5773.53,4195,5
+ORD-1055,19-08-2025,Northeast,Pennsylvania,Pittsburgh,Consumer,Accessories,Headset,Retail Store,Avery Chen,12,811.8,9741.6,0,5491.13,4250.47,5
+ORD-1056,13-05-2025,Northeast,Pennsylvania,Philadelphia,Corporate,Technology,Tablet,Retail Store,Avery Chen,12,187.47,2249.64,0.03,1319.3,862.85,3
+ORD-1057,04-05-2025,West,Arizona,Phoenix,Small Business,Furniture,Office Chair,Retail Store,Morgan Davis,9,689.11,6201.99,0.08,4009.91,1695.92,4
+ORD-1058,25-10-2025,Northeast,New York,New York City,Corporate,Technology,Printer,Retail Store,Avery Chen,9,394.9,3554.1,0.03,2032.45,1415.03,5
+ORD-1059,09-04-2025,Midwest,Minnesota,Minneapolis,Corporate,Office Supplies,Paper,Online,Morgan Davis,16,270.49,4327.84,0.05,2376.68,1734.77,5
+ORD-1060,21-02-2025,South,Texas,Dallas,Consumer,Furniture,Conference Table,Retail Store,Taylor Morgan,10,693.31,6933.1,0.1,4569.17,1670.62,3
+ORD-1061,24-12-2025,South,Texas,Austin,Consumer,Technology,Monitor,Partner,Riley Brooks,10,60.42,604.2,0,390.32,213.88,1
+ORD-1062,10-05-2025,West,Arizona,Phoenix,Corporate,Office Supplies,Folders,Online,Jordan Lee,17,428.52,7284.84,0.03,5606.77,1459.52,4
+ORD-1063,08-05-2025,Northeast,New York,New York City,Consumer,Technology,Monitor,Partner,Riley Brooks,6,773.98,4643.88,0.05,2347.73,2063.96,5
+ORD-1064,06-06-2025,South,Georgia,Atlanta,Small Business,Accessories,Webcam,Partner,Jordan Lee,16,295.13,4722.08,0.1,3669.1,580.77,5
+ORD-1065,22-03-2025,West,California,San Diego,Consumer,Furniture,Bookshelf,Retail Store,Riley Brooks,4,164.38,657.52,0.03,424.49,213.3,5
+ORD-1066,06-02-2025,Northeast,Pennsylvania,Philadelphia,Small Business,Technology,Monitor,Online,Casey Patel,11,676.88,7445.68,0.15,5494.03,834.8,5
+ORD-1067,26-03-2025,South,Florida,Miami,Corporate,Technology,Monitor,Partner,Morgan Davis,6,864.64,5187.84,0.03,2601.3,2430.9,5
+ORD-1068,10-09-2025,Midwest,Minnesota,Minneapolis,Corporate,Technology,Tablet,Online,Avery Chen,11,670.15,7371.65,0.05,4645.18,2357.89,1
+ORD-1069,22-10-2025,Northeast,New Jersey,Newark,Small Business,Office Supplies,Paper,Online,Morgan Davis,2,103.12,206.24,0.15,150.72,24.58,3
+ORD-1070,09-09-2025,West,California,San Diego,Consumer,Accessories,Webcam,Retail Store,Casey Patel,10,187.15,1871.5,0.1,1143.05,541.3,4
+ORD-1071,25-07-2025,Midwest,Michigan,Detroit,Small Business,Technology,Monitor,Online,Riley Brooks,12,401.65,4819.8,0.08,2730.25,1703.97,1
+ORD-1072,05-10-2025,Midwest,Michigan,Detroit,Corporate,Office Supplies,Notebook,Retail Store,Jordan Lee,14,824.1,11537.4,0,7814.26,3723.14,2
+ORD-1073,28-05-2025,Midwest,Missouri,Kansas City,Corporate,Accessories,Webcam,Partner,Riley Brooks,3,207.72,623.16,0.1,323.61,237.23,1
+ORD-1074,26-04-2025,West,Colorado,Denver,Consumer,Furniture,Desk,Retail Store,Jordan Lee,11,531.38,5845.18,0.1,3521.12,1739.54,2
+ORD-1075,10-10-2025,Northeast,New Jersey,Newark,Consumer,Office Supplies,Paper,Retail Store,Taylor Morgan,15,795.96,11939.4,0.08,6603.91,4380.34,5
+ORD-1076,02-01-2025,South,Texas,Houston,Corporate,Office Supplies,Folders,Partner,Casey Patel,12,888.72,10664.64,0.1,5973.82,3624.36,5
+ORD-1077,14-06-2025,Northeast,Massachusetts,Boston,Consumer,Accessories,Webcam,Partner,Taylor Morgan,13,327.83,4261.79,0.1,2527.94,1307.67,5
+ORD-1078,15-07-2025,Northeast,Massachusetts,Boston,Corporate,Accessories,Keyboard,Partner,Morgan Davis,12,712.07,8544.84,0.15,6443.06,820.05,2
+ORD-1079,22-08-2025,Northeast,New York,New York City,Consumer,Furniture,Bookshelf,Partner,Taylor Morgan,5,832.75,4163.75,0.08,2123.15,1707.5,4
+ORD-1080,18-06-2025,South,Texas,Houston,Small Business,Accessories,Headset,Partner,Riley Brooks,12,598.88,7186.56,0.08,4850.58,1761.06,3
+ORD-1081,16-02-2025,Northeast,Maryland,Baltimore,Corporate,Technology,Laptop,Online,Morgan Davis,9,606.24,5456.16,0.05,4251.59,931.76,1
+ORD-1082,11-07-2025,Northeast,Massachusetts,Boston,Corporate,Office Supplies,Notebook,Online,Taylor Morgan,3,320.32,960.96,0,545.84,415.12,5
+ORD-1083,04-05-2025,Northeast,Maryland,Baltimore,Corporate,Furniture,Desk,Partner,Taylor Morgan,7,91.6,641.2,0.08,426.98,162.92,2
+ORD-1084,13-12-2025,Northeast,New Jersey,Newark,Small Business,Office Supplies,Folders,Online,Jordan Lee,10,639.5,6395,0.08,4798.57,1084.83,4
+ORD-1085,16-07-2025,Midwest,Missouri,Kansas City,Corporate,Office Supplies,Folders,Online,Taylor Morgan,10,443.77,4437.7,0.05,2395.32,1820.49,4
+ORD-1086,05-01-2025,Midwest,Missouri,Kansas City,Small Business,Office Supplies,Paper,Partner,Morgan Davis,2,929.44,1858.88,0.15,1112.99,467.06,1
+ORD-1087,04-12-2025,Northeast,Pennsylvania,Philadelphia,Small Business,Furniture,Bookshelf,Online,Morgan Davis,9,611.33,5501.97,0.1,3054.63,1897.14,1
+ORD-1088,17-06-2025,West,California,San Francisco,Small Business,Accessories,Keyboard,Retail Store,Taylor Morgan,13,700.56,9107.28,0,6856.76,2250.52,2
+ORD-1089,01-06-2025,South,Georgia,Atlanta,Small Business,Office Supplies,Paper,Retail Store,Jordan Lee,7,257.5,1802.5,0.08,1388.31,269.99,4
+ORD-1090,02-10-2025,West,California,San Diego,Consumer,Furniture,Conference Table,Retail Store,Casey Patel,13,102.16,1328.08,0.08,643.02,578.81,3
+ORD-1091,15-10-2025,Northeast,New Jersey,Newark,Corporate,Office Supplies,Notebook,Partner,Taylor Morgan,9,457.42,4116.78,0.1,3068.11,636.99,1
+ORD-1092,10-09-2025,Northeast,New Jersey,Newark,Consumer,Office Supplies,Folders,Online,Taylor Morgan,5,148.27,741.35,0,423.54,317.81,5
+ORD-1093,01-08-2025,South,Florida,Miami,Small Business,Accessories,Headset,Online,Riley Brooks,15,565.4,8481,0.15,4464.03,2744.82,5
+ORD-1094,20-02-2025,Northeast,Pennsylvania,Philadelphia,Small Business,Technology,Printer,Retail Store,Avery Chen,8,431.23,3449.84,0.03,2541.27,805.07,3
+ORD-1095,19-04-2025,West,Washington,Seattle,Small Business,Office Supplies,Pens,Partner,Avery Chen,5,902.48,4512.4,0.08,2290.05,1861.36,1
+ORD-1096,21-04-2025,West,California,San Francisco,Consumer,Furniture,Desk,Retail Store,Taylor Morgan,8,81.94,655.52,0.1,355.39,234.58,5
+ORD-1097,14-01-2025,West,California,San Francisco,Consumer,Furniture,Desk,Online,Casey Patel,10,762.21,7622.1,0,5170.2,2451.9,2
+ORD-1098,02-02-2025,Midwest,Illinois,Chicago,Corporate,Furniture,Bookshelf,Retail Store,Casey Patel,3,136.14,408.42,0.08,260.5,115.25,5
+ORD-1099,01-02-2025,West,Washington,Seattle,Corporate,Furniture,Office Chair,Retail Store,Riley Brooks,18,299.12,5384.16,0.15,4141.54,435,1
+ORD-1100,21-05-2025,Northeast,New Jersey,Newark,Small Business,Accessories,Keyboard,Partner,Avery Chen,4,318.21,1272.84,0.03,636.04,598.61,5
